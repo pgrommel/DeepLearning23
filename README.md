@@ -1,6 +1,10 @@
 # DeepLearning23
+Kursmaterialien zur Vorlesung Deep Learning
 
-Course materials for the  "Deep Learning" lecture in SS23 
+## Hinweise
+* es wird ein  [*Google* account](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp) benötigt um code in [*Colab*](https://colab.research.google.com) auszuführen.
+* speichern Sie ihre Ergebnisse/Code in *Colab* über *download*, *save to google drive* oder *push to github* 
 
-## Week 1
-- tba -
+## Woche 1
+
+### Lab
