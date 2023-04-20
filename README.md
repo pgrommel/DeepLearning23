@@ -41,7 +41,7 @@ Kursmaterialien zur Vorlesung Deep Learning
 * (optional) [PyTorch AutoGrad](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_4/autograd_tutorial.ipynb)
 
 ### Assignment 
-* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb)
+* [Assignment: Optimizing and Analyzing NN Training](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_4/Assignment_CIFAR10_MLP_optimization.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_4/Assignment_CIFAR10_MLP_optimization_solution.ipynb)
 
 ## Woche 5
 
