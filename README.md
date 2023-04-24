@@ -50,3 +50,7 @@ Kursmaterialien zur Vorlesung Deep Learning
 
 ### Assignment
 * [Assignment 1: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb)
+
+## Woche 6
+### Assignment
+* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_6/Assignment_2_PyTorch_Model_Zoo.ipynb)
