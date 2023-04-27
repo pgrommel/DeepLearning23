@@ -49,7 +49,7 @@ Kursmaterialien zur Vorlesung Deep Learning
 * [PyTorch Data Loader](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_5/lab_pytorch_data_loader.ipynb)
 
 ### Assignment
-* [Assignment 1: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb)
+* [Assignment 1: CIFAR10 with AlexNet](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_5/Assignment_1_cifar10_CNN.ipynb)-> [solution](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_5/Assignment_1_cifar10_CNN_solution.ipynb)
 
 ## Woche 6
 ### Assignment
