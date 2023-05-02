@@ -54,3 +54,11 @@ Kursmaterialien zur Vorlesung Deep Learning
 ## Woche 6
 ### Assignment
 * [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_6/Assignment_2_PyTorch_Model_Zoo.ipynb)
+
+## Woche 7
+
+### Lab
+* [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_7/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
+
+### Assignments
+* [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_7/Assignemnt_stock-price.ipynb) 
