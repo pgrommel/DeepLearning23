@@ -53,7 +53,7 @@ Kursmaterialien zur Vorlesung Deep Learning
 
 ## Woche 6
 ### Assignment
-* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_6/Assignment_2_PyTorch_Model_Zoo.ipynb)
+* [Assignment: PyTorch Model Zoo](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_6/Assignment_2_PyTorch_Model_Zoo.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_6/Assignment_2_PyTorch_Model_Zoo_solution.ipynb)
 
 ## Woche 7
 
