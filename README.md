@@ -62,3 +62,11 @@ Kursmaterialien zur Vorlesung Deep Learning
 
 ### Assignments
 * [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_7/Assignemnt_stock-price.ipynb) 
+
+## Woche 8
+
+### Lab
+* [PyTorch Data Transformations](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_8/lab_pytorch_data_transforms.ipynb)
+
+### Assignent
+* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_8/Assignment_AE_MNIST.ipynb)
