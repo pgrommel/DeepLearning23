@@ -58,7 +58,7 @@ Kursmaterialien zur Vorlesung Deep Learning
 ## Woche 7
 
 ### Lab
-* [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_7/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) 
+* [LSTMs with PyTorch](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_7/Lab_Time_Series_Prediction_with_LSTM_Using_PyTorch.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_7/Assignemnt_stock-price-solution.ipynb]
 
 ### Assignments
 * [Stock Price Prediction](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_7/Assignemnt_stock-price.ipynb) 
