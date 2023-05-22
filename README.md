@@ -70,3 +70,12 @@ Kursmaterialien zur Vorlesung Deep Learning
 
 ### Assignent
 * [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_8/Assignment_AE_MNIST.ipynb)
+
+## Woche 9
+
+### Lab
+* [DC-GAN on CIFAR10](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_9/DCGAN_CIFAR10.ipynb)
+
+### Assignment
+* [GAN on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_9/assignment_mnistGAN.ipynb)
+
