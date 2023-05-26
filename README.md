@@ -69,7 +69,7 @@ Kursmaterialien zur Vorlesung Deep Learning
 * PyTorch AutoAugmentation: https://pytorch.org/vision/main/generated/torchvision.transforms.AutoAugment.html
 
 ### Assignent
-* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_8/Assignment_AE_MNIST.ipynb)
+* [AutoEncoder on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_8/Assignment_AE_MNIST.ipynb) -> [solution](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_8/Assignment_AE_MNIST_solution.ipynb)
 
 ## Woche 9
 
