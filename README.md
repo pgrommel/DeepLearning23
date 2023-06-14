@@ -79,3 +79,11 @@ Kursmaterialien zur Vorlesung Deep Learning
 ### Assignment
 * [GAN on MNIST](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_9/assignment_mnistGAN.ipynb)
 
+
+## Woche 10
+
+#### Lab
+* [Stable Diffusion Demo](https://colab.research.google.com/github/huggingface/notebooks/blob/main/diffusers/stable_diffusion.ipynb)
+
+### Assignment
+
