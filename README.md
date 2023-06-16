@@ -88,3 +88,22 @@ Kursmaterialien zur Vorlesung Deep Learning
 ### Assignment
 * [DDPM from scratch](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_10/DDPM.ipynb)
 
+
+## Woche 11
+
+### Lab
+* [NLP Transformer Example](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_11/transformer_tutorial.ipynb)
+* [Using a pre-trained Vision transformer](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_11/pre_trained_vt.ipynb)
+* [fine tuning a pre-trained transformer](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_11/fine_tune_pre_trained_transformer.ipynb)
+
+
+## Einführung in Tensorflow
+* TensorFlow API: https://www.tensorflow.org/api_docs/python/tf
+### Lab
+* [Introduction to Tensorflow 2](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/quickstart/beginner.ipynb)
+* [Tensors and Operators](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/basics.ipynb)
+* [Custom Layers](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/custom_layers.ipynb)
+* [Custom Training](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/customization/custom_training_walkthrough.ipynb)
+* [Use Case 1: CIFAR10](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb)
+* [Use Case 2: text RNN](https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb)
+
