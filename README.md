@@ -107,3 +107,9 @@ Kursmaterialien zur Vorlesung Deep Learning
 * [Use Case 1: CIFAR10](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/images/cnn.ipynb)
 * [Use Case 2: text RNN](https://colab.research.google.com/github/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb)
 
+## Woche 12
+
+### Lab
+* [GNNs with PyTorch Geometric ](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_12/GNN_intro.ipynb)
+* [Graph Clsssification Example](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_12/Graph_Classification.ipynb)
+* [Graph Classification IMDB](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_12/Assignment.ipynb)
