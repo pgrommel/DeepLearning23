@@ -111,5 +111,5 @@ Kursmaterialien zur Vorlesung Deep Learning
 
 ### Lab
 * [GNNs with PyTorch Geometric ](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_12/GNN_intro.ipynb)
-* [Graph Clsssification Example](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_12/Graph_Classification.ipynb)
+* [Graph Classification Example](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_12/Graph_Classification.ipynb)
 * [Graph Classification IMDB](https://colab.research.google.com/github/keuperj/DeepLearning23/blob/main/week_12/Assignment.ipynb)
